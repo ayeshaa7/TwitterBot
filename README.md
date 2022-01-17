@@ -1,6 +1,15 @@
-# Twitter Bot (python)
+# Twitter Bot 
 
-This Twitter Bot automatically logins in your Twitter account, searches queries, here 'womeninstem', selects each tweet in the search result and favorites the tweet every 10 seconds--to avoid ban.
+Twitter Bot 
+
+Tools and Frameworks:
+- Python
+- Selenium
+- Twitter API
+- CLI
+
+Automatically logs in, searches for tweets from selected keywords, searches for each user’s tweet path,
+and generates automated favorites, every 10 seconds. It catches the error and re-iterates after 60 seconds. - Link to GitHub
 
 - Automatically logs in your account using selenium 
 - uses TwitterBot function to log in with your credentials: username and password
